@@ -1,0 +1,16 @@
+{
+  "tailwindCSS.trace.server": "verbose",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "svelte",
+    "java",
+    "javascript",
+    "typescript",
+    "json",
+    "html",
+    "css",
+    "go",
+    "xml"
+  ],
+  "java.format.enabled": true,
+  "svelte.enable-ts-plugin": true
+}
