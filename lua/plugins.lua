@@ -15,4 +15,5 @@ return require('packer').startup(function()
         run = function() vim.cmd[[ -> fzf#install() ]] end
     }
     use 'junegunn/fzf.vim'
+    use 'vim-test/vim-test'
 end)
